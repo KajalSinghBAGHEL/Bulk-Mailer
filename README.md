@@ -87,7 +87,7 @@ $ py or python
 >>>from app import db
 >>>db.create_all()
 >>>exit()
-```
+```scm sm c,
 
 For Linux: 👨‍💻
 ```
